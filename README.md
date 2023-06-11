@@ -1,6 +1,8 @@
 # 💫 About Me:
 👋 Hi there! I'm Youssef Chati, a passionate programmer who loves to explore the world of software development. Let me tell you a bit about myself:<br><br>🔭 I’m currently working on honing my skills in C language, object-oriented programming with C++, and Flutter using Dart language.<br>👯 I’m looking to collaborate on exciting software projects where I can contribute my expertise and learn from other talented developers.<br>🤝 I’m also open to any help or guidance that can enhance my skills and improve my understanding of programming concepts. If you have any valuable insights or suggestions, feel free to share them with me.<br>🌱 I’m currently learning new technologies and frameworks to stay up-to-date with the rapidly evolving software landscape. <br>⚡ Fun fact: When I'm not immersed in coding, you can find me exploring the great outdoors. I believe that nature is the perfect source of inspiration and rejuvenation for the mind.<br><br>Let's connect and create something remarkable together!
 
+<script src="https://gist.github.com/DevMoonTv/9f1647e6262cadc4dff2f34ce202072a.js"></script>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/kaiito#8057) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/youssef.vfx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/youssef-chati/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@Certifiekacchan) 

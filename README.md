@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm [Your Name], a passionate programmer who loves to explore the world of software development. Let me tell you a bit about myself:<br><br>🔭 I’m currently working on honing my skills in C language, object-oriented programming with C++, and Flutter using Dart language. I enjoy working on various projects that challenge me to think creatively and solve problems efficiently.<br>👯 I’m looking to collaborate on exciting software projects where I can contribute my expertise and learn from other talented developers. Collaboration is key to expanding our knowledge and creating something exceptional together.<br>🤝 I’m also open to any help or guidance that can enhance my skills and improve my understanding of programming concepts. If you have any valuable insights or suggestions, feel free to share them with me.<br>🌱 I’m currently learning new technologies and frameworks to stay up-to-date with the rapidly evolving software landscape. <br>⚡ Fun fact: When I'm not immersed in coding, you can find me exploring the great outdoors. I believe that nature is the perfect source of inspiration and rejuvenation for the mind.<br><br>Feel free to reach out to me for any collaborations, discussions, or just to say hello. Let's connect and create something remarkable together!<br>
+👋 Hi there! I'm Youssef Chati, a passionate programmer who loves to explore the world of software development. Let me tell you a bit about myself:<br><br>🔭 I’m currently working on honing my skills in C language, object-oriented programming with C++, and Flutter using Dart language.<br>👯 I’m looking to collaborate on exciting software projects where I can contribute my expertise and learn from other talented developers.<br>🤝 I’m also open to any help or guidance that can enhance my skills and improve my understanding of programming concepts. If you have any valuable insights or suggestions, feel free to share them with me.<br>🌱 I’m currently learning new technologies and frameworks to stay up-to-date with the rapidly evolving software landscape. <br>⚡ Fun fact: When I'm not immersed in coding, you can find me exploring the great outdoors. I believe that nature is the perfect source of inspiration and rejuvenation for the mind.<br><br>Let's connect and create something remarkable together!
 
 
 ## 🌐 Socials:
@@ -15,8 +15,8 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=@Certifiekacchan)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YoussefChati&icon=0&color=0)](https://visitcount.itsvg.in)

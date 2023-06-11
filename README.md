@@ -12,9 +12,6 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YoussefChati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
-
-<img src="https://animesher.com/orig/1/129/1292/12928/animesher.com_detective-conan-kaito-1412-magic-kaito-1292871.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefChati&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefChati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 

@@ -10,6 +10,9 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YoussefChati&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=YoussefChati&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YoussefChati&theme=tokyonight&hide_border=true)<br/>
@@ -24,6 +27,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=YoussefChati&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me/YoussefChati) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Youssef) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/PayPal.Me/YoussefChati) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  
+  
+  
+  
+  
+  
+  
+  
 
